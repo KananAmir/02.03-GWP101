@@ -2,3 +2,5 @@ ignoreThisFile.txt
 
 *.html
 !index4.html
+
+/gdu
